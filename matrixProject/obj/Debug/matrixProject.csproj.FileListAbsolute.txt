@@ -1,6 +1,0 @@
-/home/public/RiderProjects/matrix/matrixProject/bin/Debug/matrixProject.exe
-/home/public/RiderProjects/matrix/matrixProject/bin/Debug/matrixProject.pdb
-/home/public/RiderProjects/matrix/matrixProject/obj/Debug/matrixProject.csprojAssemblyReference.cache
-/home/public/RiderProjects/matrix/matrixProject/obj/Debug/matrixProject.csproj.CoreCompileInputs.cache
-/home/public/RiderProjects/matrix/matrixProject/obj/Debug/matrixProject.exe
-/home/public/RiderProjects/matrix/matrixProject/obj/Debug/matrixProject.pdb
